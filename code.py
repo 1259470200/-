@@ -1,4 +1,4 @@
-from MedicalImageAnalysis.utils import *
+from utils import *
 
 if __name__ == '__main__':
     BASE_DIR = r'.\dataset'
